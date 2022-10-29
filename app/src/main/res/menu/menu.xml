@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Home" android:title="Home" android:icon="@drawable/ic_baseline_home_24" android:checked="true"/>
+    <item android:id="@+id/go_to_cryptoCurrency" android:title="Go To Crypto Website" android:icon="@drawable/ic_baseline_go_24"/>
+    <item android:id="@+id/about_me" android:title="About me" android:icon="@drawable/ic_baseline_supervised_user_circle_24"/>
+    <item android:id="@+id/nearby" android:icon="@drawable/ic_baseline_near_me_24" android:title="nearBy"/>
+
+</menu>

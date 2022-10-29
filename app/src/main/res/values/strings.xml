@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiTest</string>
+    <string name="open_navigation">Open NavigationView</string>
+    <string name="close_navigation">Close NavigationView</string>
+</resources>
